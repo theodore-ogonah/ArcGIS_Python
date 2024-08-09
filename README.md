@@ -1,2 +1,2 @@
-# BGS_borehole_downlaod
-A script that will download the boreholes you require from the BGS GeoIndex when you need them
+# ArcGIS_Python 
+A repository of scripts that are used to perform processes in ArcGIS to speed up workflows.
